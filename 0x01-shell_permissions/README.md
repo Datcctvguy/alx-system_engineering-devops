@@ -3,3 +3,5 @@
 2) A script that prints all the groups the current user is part of.
 3) A script that changes the owner of the file hello to betty
 4) A script that create an empty file called hello
+5) A script that adds execute permission to the owner of the file hello
+6) A script that adds execute permission to the owner and group owner,and read permission to other users to the file hello.
