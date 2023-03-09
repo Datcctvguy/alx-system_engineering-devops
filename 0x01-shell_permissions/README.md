@@ -9,3 +9,4 @@
 8) A script that sets all permission to other users and deny owner and group all permission.
 9) A script that set the mode of file 'hello' to -rwxr-x-wx
 10) A script that mirrors permission from file olleh to file hello
+11) A script that adds execute permission to all subdirectories in the current directory for the owner,group owner and other users.
